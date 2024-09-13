@@ -15,7 +15,7 @@ const BookingItem = () => {
                         <Avatar className="h-6 w-6">
                             <AvatarImage src="https://utfs.io/f/c97a2dc9-cf62-468b-a851-bfd2bdde775f-16p.png" />
 
-                            <AvatarFallback>A</AvatarFallback>
+                            <AvatarFallback>X</AvatarFallback>
                         </Avatar>
 
                         <h3 className="text-sm">Vintage Barber</h3>
